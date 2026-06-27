@@ -1,0 +1,17 @@
+{
+  "packs": [
+    {
+      "id": "neon-purple",
+      "name": "Neon Purple",
+      "author": "Winstar",
+      "description": "Фиолетовая неоновая тема с обоями и курсорами",
+      "preview": "packs/neon-purple/preview.png",
+      "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
+      "cursors": [
+        "packs/neon-purple/cursors/arrow.cur",
+        "packs/neon-purple/cursors/wait.ani",
+        "packs/neon-purple/cursors/ibeam.cur"
+      ]
+    }
+  ]
+}
