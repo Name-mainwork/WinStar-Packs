@@ -4,52 +4,41 @@
       "id": "dark-minimal",
       "name": "Dark Minimal",
       "author": "Name-mainwork",
-      "style": "Неон",
+      "style": "Minimalism",
       "description": "Фиолетовая неоновая тема: тёмные обои с подсветкой и плавные курсоры",
       "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
       "cursors": [
         "packs/neon-purple/cursors/arrow.cur",
         "packs/neon-purple/cursors/wait.ani"
       ]
-    }
- {
-      "id": "neon-purple",
-      "name": "Neon Purple",
+    },
+    {
+      "id": "minimal-dark",
+      "name": "Minimal Dark",
       "author": "Name-mainwork",
-      "style": "Неон",
-      "description": "Фиолетовая неоновая тема: тёмные обои с подсветкой и плавные курсоры",
-      "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
+      "style": "Минимализм",
+      "description": "Строгие тёмные обои без лишних деталей и аккуратные курсоры",
+      "wallpapers": [
+        "packs/minimal-dark/wall1.jpg",
+        "packs/minimal-dark/wall2.jpg"
+      ],
       "cursors": [
-        "packs/neon-purple/cursors/arrow.cur",
-        "packs/neon-purple/cursors/wait.ani"
+        "packs/minimal-dark/cursors/arrow.cur",
+        "packs/minimal-dark/cursors/ibeam.cur",
+        "packs/minimal-dark/cursors/hand.cur"
       ]
-    }
-
- {
-      "id": "neon-purple",
-      "name": "Neon Purple",
+    },
+    {
+      "id": "nature-green",
+      "name": "Wild Nature",
       "author": "Name-mainwork",
-      "style": "Неон",
-      "description": "Фиолетовая неоновая тема: тёмные обои с подсветкой и плавные курсоры",
-      "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
+      "style": "Природа",
+      "description": "Живые пейзажи и зелёные тона для спокойного рабочего стола",
+      "wallpapers": ["packs/nature-green/forest.jpg"],
       "cursors": [
-        "packs/neon-purple/cursors/arrow.cur",
-        "packs/neon-purple/cursors/wait.ani"
+        "packs/nature-green/cursors/arrow.cur",
+        "packs/nature-green/cursors/wait.ani"
       ]
     }
-
- {
-      "id": "neon-purple",
-      "name": "Neon Purple",
-      "author": "Name-mainwork",
-      "style": "Неон",
-      "description": "Фиолетовая неоновая тема: тёмные обои с подсветкой и плавные курсоры",
-      "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
-      "cursors": [
-        "packs/neon-purple/cursors/arrow.cur",
-        "packs/neon-purple/cursors/wait.ani"
-      ]
-    }
-
   ]
 }
