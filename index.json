@@ -13,3 +13,43 @@
       ]
     }
  {
+      "id": "neon-purple",
+      "name": "Neon Purple",
+      "author": "Name-mainwork",
+      "style": "Неон",
+      "description": "Фиолетовая неоновая тема: тёмные обои с подсветкой и плавные курсоры",
+      "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
+      "cursors": [
+        "packs/neon-purple/cursors/arrow.cur",
+        "packs/neon-purple/cursors/wait.ani"
+      ]
+    }
+
+ {
+      "id": "neon-purple",
+      "name": "Neon Purple",
+      "author": "Name-mainwork",
+      "style": "Неон",
+      "description": "Фиолетовая неоновая тема: тёмные обои с подсветкой и плавные курсоры",
+      "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
+      "cursors": [
+        "packs/neon-purple/cursors/arrow.cur",
+        "packs/neon-purple/cursors/wait.ani"
+      ]
+    }
+
+ {
+      "id": "neon-purple",
+      "name": "Neon Purple",
+      "author": "Name-mainwork",
+      "style": "Неон",
+      "description": "Фиолетовая неоновая тема: тёмные обои с подсветкой и плавные курсоры",
+      "wallpapers": ["packs/neon-purple/wallpaper.jpg"],
+      "cursors": [
+        "packs/neon-purple/cursors/arrow.cur",
+        "packs/neon-purple/cursors/wait.ani"
+      ]
+    }
+
+  ]
+}
