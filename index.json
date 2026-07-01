@@ -7,7 +7,7 @@
     "description": "Минималистичный набор тёмных обоев и курсоров",
     "wallpapersFolder": "packs/dark-minimal/wallpapers",
     "cursorPacks": [
-      { "name": "Dark Minimal One Blue",  "folder": "packs/dark-minimal/cursors/darkmin1" },
+      { "name": "Dark Minimal One",  "folder": "packs/dark-minimal/cursors/darkmin1" },
       { "name": "Dark Minimal Two",  "folder": "packs/dark-minimal/cursors/darkmin2" }
   ]
     },
