@@ -7,8 +7,8 @@
     "description": "Минималистичный набор тёмных обоев и курсоров",
     "wallpapersFolder": "packs/dark-minimal/wallpapers",
     "cursorPacks": [
-      { "name": "Neon Blue",  "folder": "packs/dark-minimal/cursors/darkmin1" },
-      { "name": "Neon Pink",  "folder": "packs/dark-minimal/cursors/darkmin2" }
+      { "name": "Dark Minimal One Blue",  "folder": "packs/dark-minimal/cursors/darkmin1" },
+      { "name": "Dark Minimal Two",  "folder": "packs/dark-minimal/cursors/darkmin2" }
   ]
     },
     {
@@ -18,7 +18,7 @@
     "description": "Неоновый набор в атмосфере Cyberpunk 2077",
     "wallpapersFolder": "packs/cyber-attack/wallpapers",
     "cursorPacks": [
-      { "name": "Neon Blue",  "folder": "packs/cyber-attack/cursors/cyberattack1" }
+      { "name": "Cyber Attack",  "folder": "packs/cyber-attack/cursors/cyberattack1" }
   ]
     },
     {
@@ -28,7 +28,7 @@
     "description": "Набор обоев и курсоров в эстетике MacOS",
     "wallpapersFolder": "packs/macos/wallpapers",
     "cursorPacks": [
-      { "name": "Neon Blue",  "folder": "packs/macos/cursors/macos1" }
+      { "name": "macOS",  "folder": "packs/macos/cursors/macos1" }
   ]
     }
   ]
